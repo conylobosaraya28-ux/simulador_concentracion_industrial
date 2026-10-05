@@ -1,0 +1,1 @@
+# simulador_concentracion_industrial
